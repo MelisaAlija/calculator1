@@ -1,0 +1,21 @@
+div{
+	width: 25%;
+	height: 100%;
+	background-color: purple;
+	margin-left: 37%;
+	margin-right: 58%;
+	border-radius: 8px;
+	border: 2px solid pink;
+	margin-top: 50px;
+}
+input{
+	margin: 5px;
+	width: 80px;
+	height: 60px;
+	border: 2px solid black;
+	font-size: 25px;
+	border-radius: 7px;
+}
+#text1{
+	width: 360px;
+}
